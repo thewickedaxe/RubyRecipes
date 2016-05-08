@@ -1,0 +1,1 @@
+y = Dir.entries("path")
